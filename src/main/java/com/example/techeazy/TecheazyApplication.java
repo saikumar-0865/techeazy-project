@@ -9,5 +9,9 @@ public class TecheazyApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TecheazyApplication.class, args);
 	}
+	
+	public void mainTest(String[] args) {
+		
+	}
 
 }
